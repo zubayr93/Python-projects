@@ -1,2 +1,1 @@
 # Python-projects
-Practice projects
