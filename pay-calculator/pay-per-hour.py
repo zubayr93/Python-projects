@@ -1,0 +1,6 @@
+print("Total hours worked ?")
+hours = input()
+print("Rate per hour?")
+rate = input()
+total = float(hours) * float(rate) 
+print("total pay = ",total)
