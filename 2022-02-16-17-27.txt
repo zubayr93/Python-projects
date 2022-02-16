@@ -1,3 +1,0 @@
-sting from file1
-string from file 2
-string from file 3
